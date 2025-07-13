@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "github_photo_2.jpg"
   name             : "Muhammad Farhan Azmine"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : #"he/him"  
+  bio              : "I am a third year PhD student with Computer Engineering major at Virginia Tech. I have more than 5 years of experience in developing complex RTL designs, IP subsystem integration and Verification. My research includes developing energy efficient hardware friendly machine learning algorithms using Python/C++ and designing/optimizing digital chips that can deploy them for Edge AI applications"
   location         : "Alexandria, VA"
   employer         : "Virginia Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "muhammadfarhan@vt.edu" 
 
   # Academic websites
   academia         : # URL
