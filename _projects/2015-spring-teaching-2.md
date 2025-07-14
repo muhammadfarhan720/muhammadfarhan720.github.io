@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "PLL Design for Frequency Generation in Cadence"
+description: "Designed a PLL for frequency generation (200 MHz to 1.6 GHz) with optimized settling times and low power consumption."
+github: "https://github.com/salekinchowdhury/PLL-Design-for-Frequency-Generation-Cadence"
+layout: single
+order: 1
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Project Overview
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- **Frequency Range**: 200 MHz to 1.6 GHz
+- **Supply Voltage**: 1.2 V
+- **Settling Times**:
+  - Slow-Slow (SS): 873 ns
+  - Typical-Typical (TT): 715 ns
+  - Fast-Fast (FF): 507 ns
+- **Power Consumption**:
+  - SS: 110.5 µW
+  - TT: 163.4 µW
+  - FF: 215.3 µW
+- **Optimization**: Low power and fast settling across PVT variations
