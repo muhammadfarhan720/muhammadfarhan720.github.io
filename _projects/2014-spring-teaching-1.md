@@ -1,7 +1,7 @@
 ---
 title: "Bandgap Design for Voltage Reference in Cadence"
 description: "Designed a bandgap voltage reference circuit with low temperature coefficient."
-github: "https://github.com/salekinchowdhury/Bandgap-Reference-Circuit-in-Cadence"
+github: "https://github.com/muhammadfarhan720/RNN-MIMO-Ethernet-accelerator"
 layout: single
 order: 2
 ---
